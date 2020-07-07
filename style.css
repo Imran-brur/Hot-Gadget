@@ -56,3 +56,8 @@ body{
     border: none;
     border-radius: 10px 1px 30px 1px;
 }
+footer{
+    text-align: center;
+    font-weight: 500;
+    color: rgb(107, 103, 103);
+}
