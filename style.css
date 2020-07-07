@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(248, 246, 246);
+}
+.container{
+    margin-bottom: 100px;
+}
+.bg-color{
+    background-color: skyblue;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 10px;
+}
+.card{
+    text-align: center;
+    align-items: center;
+    padding: 30px 5px;
+    border: none;
+    box-shadow: 1px 1px 10px rgb(219, 214, 214);
+}
+.container img{
+    width: 85%;
+}
+.smart{
+    font-size: 30px;
+    font-weight: 500;
+}
+.all{
+    color: orangered;
+    font-weight: 500;
+}
+.cat{
+    text-align: center;
+    text-decoration: underline orangered;
+    margin-bottom: 90px;
+    
+   
+}
+.style1
+{
+    width: 12rem;
+    height: 15rem;
+    border: none;
+    border-radius: 1px 10px 1px 30px;
+}
+.style2
+{
+    width: 12rem;
+    height: 15rem;
+    border: none;
+    border-radius: 10px 1px 30px 1px;
+}
+.style3
+{
+    width: 12rem;
+    height: 15rem;
+    border: none;
+    border-radius: 10px 1px 30px 1px;
+}
